@@ -1,3 +1,6 @@
 [submodule "hyeonjun-spring-gg"]
 	path = hyeonjun-spring-gg
 	url = https://github.com/phjppo0918/hyeonjun-spring-gg.git
+[submodule "yeonjy-spring-gg"]
+	path = yeonjy-spring-gg
+	url = https://github.com/yeonjy/yeonjy-spring-gg.git
