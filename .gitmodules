@@ -4,3 +4,6 @@
 [submodule "yeonjy-spring-gg"]
 	path = yeonjy-spring-gg
 	url = https://github.com/yeonjy/yeonjy-spring-gg.git
+[submodule "yunho-spring-gg"]
+	path = yunho-spring-gg
+	url = https://github.com/yunhobb/yunho-spring-gg.git
