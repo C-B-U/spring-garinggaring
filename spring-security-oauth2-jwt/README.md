@@ -6,7 +6,10 @@
 # 외부 참조
 [JWT와 Oauth의 관계](https://jeonyoungho.github.io/posts/JWT와-OAuth의-관계/)
 [OAuth2 인증 과정](https://autumnly.tistory.com/64)
-[Spring-security JWT를 통한 인가 설정](https://hipopatamus.tistory.com/72)
+
+[Spring-security JWT를 통한 인가 설정](https://gksdudrb922.tistory.com/217)
+
+
 
 # 의문점
 #### SSO 구현시 여러 OAuth2 서비스를 사용하면 서드파티 토큰을 통해 인증/인가가 지속적으로 이루어질 수 있는가
