@@ -13,6 +13,7 @@
 객체 내부 상태에 따라 스스로 행동을 변경
 ## Command Pattern
 실행 기능을 캡슐화해서 주어진 여러 기능을 실행 
+https://gmlwjd9405.github.io/2018/07/07/command-pattern.html
 ## Strategy Pattern
 객체가 할 수 있는 행위를 각각 전략으로 생성, 동적으로 행위의 수정이 필요한 경우 전략을 변경
 ## Observer Pattern
@@ -24,6 +25,10 @@
 주어진 상황 및 용도에 따라 어떤 객체에 책임을 덧붙임
 ## Proxy Pattern
 실행시킬 클래스에 대한 객체가 들어갈 자리에 대리자를 대신 투입
+
+### Decorator 와 Proxy 차이
+https://velog.io/@gmtmoney2357/디자인-패턴-프록시-패턴Proxy-Pattern-데코레이터-패턴Decorator-Pattern
+
 ## Composite Pattern
 객체들의 관계를 트리로 구성, 부분- 전체 계층으로 표현 
 ## Adapter Pattern
