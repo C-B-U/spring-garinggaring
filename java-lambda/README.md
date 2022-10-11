@@ -32,6 +32,8 @@ public interface Consumer<T> {
 
 // 예시
 Consumer<String> consumer = (str) -> System.out.println(str.split(" ")[0]);
+
+
 consumer.andThen(System.out::println).accept("Hello World");
 
 // 출력
@@ -41,7 +43,7 @@ Hello World
 
 ## Function<T, R>
 
-Paramenter, 반환값 둘 다 있음
+Paramemter, 반환값 둘 다 있음
 
 ```java
 @FunctionalInterface
