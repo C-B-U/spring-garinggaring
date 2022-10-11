@@ -7,7 +7,6 @@
 [JPA 모든 N+1 발생 케이스과 해결책](https://url.kr/i9el7d)
 
 ## Embedded Database 설정 
-### → application.yml로 변환은 알아서…
 
 [스프링부트 h2 설정](https://bgpark.tistory.com/78)
 
